@@ -18,3 +18,9 @@ Third search algorithm is Greedy Search
 We search by the heuristic function which is the actual cost between the two stations
 Greedy check all the stations available stations to expand and expand the node with the least cost heuristic function
 
+# Comparison:
+BFS and Greedy are optimal 
+DFS is the one with the most expanded nodes 
+Greedy is the one with the lest expanded nodes
+All three searches are complete
+Greedy is the efficient search among them as it expand the least number of nodes
